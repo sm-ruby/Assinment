@@ -1,0 +1,13 @@
+body {
+    background-image: url("/image/Vagetable.jpg");
+    background-size: cover;
+    border: ;
+  }
+  .p{
+    font-size: medium;
+    text-shadow: 2px 4px;
+  }
+  >#paral{
+    text-align: center;
+    color: red;
+  }
